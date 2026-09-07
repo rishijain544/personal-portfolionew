@@ -1,0 +1,6 @@
+{
+  "name": "Rishi Jain Portfolio",
+  "description": "Interactive WebGL Portfolio for Rishi Jain - Machine Learning Engineer & Full-Stack Developer specializing in PyTorch, Computer Vision, NLP, and Full-Stack AI apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
